@@ -1,5 +1,5 @@
--  Hi,
- I develop multilingual alphanumeric systems for both cloud-based and local environments.
+- ,
+ developing systems for both cloud-based and local environments.
 
 
 ### Languages
