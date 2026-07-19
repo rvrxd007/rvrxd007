@@ -1,6 +1,4 @@
-- ,
- developing systems for both cloud-based and local environments.
-
+### Step by Steps
 
 ### Languages
 
